@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\23603\\source\\repos\\OOP_A2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F915CB9-D663-4B9C-B863-012588F7321D}|OOP_A2.csproj|c:\\users\\23603\\source\\repos\\oop_a2\\threeormore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F915CB9-D663-4B9C-B863-012588F7321D}|OOP_A2.csproj|solutionrelative:threeormore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F915CB9-D663-4B9C-B863-012588F7321D}|OOP_A2.csproj|c:\\users\\23603\\source\\repos\\oop_a2\\statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F915CB9-D663-4B9C-B863-012588F7321D}|OOP_A2.csproj|solutionrelative:statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F915CB9-D663-4B9C-B863-012588F7321D}|OOP_A2.csproj|c:\\users\\23603\\source\\repos\\oop_a2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F915CB9-D663-4B9C-B863-012588F7321D}|OOP_A2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F915CB9-D663-4B9C-B863-012588F7321D}|OOP_A2.csproj|c:\\users\\23603\\source\\repos\\oop_a2\\sevensout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F915CB9-D663-4B9C-B863-012588F7321D}|OOP_A2.csproj|solutionrelative:sevensout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F915CB9-D663-4B9C-B863-012588F7321D}|OOP_A2.csproj|c:\\users\\23603\\source\\repos\\oop_a2\\testing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F915CB9-D663-4B9C-B863-012588F7321D}|OOP_A2.csproj|solutionrelative:testing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F915CB9-D663-4B9C-B863-012588F7321D}|OOP_A2.csproj|c:\\users\\23603\\source\\repos\\oop_a2\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F915CB9-D663-4B9C-B863-012588F7321D}|OOP_A2.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F915CB9-D663-4B9C-B863-012588F7321D}|OOP_A2.csproj|c:\\users\\23603\\source\\repos\\oop_a2\\die.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F915CB9-D663-4B9C-B863-012588F7321D}|OOP_A2.csproj|solutionrelative:die.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThreeOrMore.cs",
+              "DocumentMoniker": "C:\\Users\\23603\\source\\repos\\OOP_A2\\ThreeOrMore.cs",
+              "RelativeDocumentMoniker": "ThreeOrMore.cs",
+              "ToolTip": "C:\\Users\\23603\\source\\repos\\OOP_A2\\ThreeOrMore.cs",
+              "RelativeToolTip": "ThreeOrMore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T09:36:04.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Testing.cs",
+              "DocumentMoniker": "C:\\Users\\23603\\source\\repos\\OOP_A2\\Testing.cs",
+              "RelativeDocumentMoniker": "Testing.cs",
+              "ToolTip": "C:\\Users\\23603\\source\\repos\\OOP_A2\\Testing.cs",
+              "RelativeToolTip": "Testing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T09:36:04.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Statistics.cs",
+              "DocumentMoniker": "C:\\Users\\23603\\source\\repos\\OOP_A2\\Statistics.cs",
+              "RelativeDocumentMoniker": "Statistics.cs",
+              "ToolTip": "C:\\Users\\23603\\source\\repos\\OOP_A2\\Statistics.cs",
+              "RelativeToolTip": "Statistics.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T09:36:03.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SevensOut.cs",
+              "DocumentMoniker": "C:\\Users\\23603\\source\\repos\\OOP_A2\\SevensOut.cs",
+              "RelativeDocumentMoniker": "SevensOut.cs",
+              "ToolTip": "C:\\Users\\23603\\source\\repos\\OOP_A2\\SevensOut.cs",
+              "RelativeToolTip": "SevensOut.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T09:36:03.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Die.cs",
+              "DocumentMoniker": "C:\\Users\\23603\\source\\repos\\OOP_A2\\Die.cs",
+              "RelativeDocumentMoniker": "Die.cs",
+              "ToolTip": "C:\\Users\\23603\\source\\repos\\OOP_A2\\Die.cs",
+              "RelativeToolTip": "Die.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T09:36:01.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\23603\\source\\repos\\OOP_A2\\Game.cs",
+              "RelativeDocumentMoniker": "Game.cs",
+              "ToolTip": "C:\\Users\\23603\\source\\repos\\OOP_A2\\Game.cs",
+              "RelativeToolTip": "Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T09:36:01.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\23603\\source\\repos\\OOP_A2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\23603\\source\\repos\\OOP_A2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T09:34:53.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
